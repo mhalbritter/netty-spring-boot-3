@@ -1,0 +1,22 @@
+[
+  {
+    "allPublicMethods": true,
+    "name": "io.netty.handler.codec.dns.DatagramDnsQueryEncoder"
+  },
+  {
+    "allPublicMethods": true,
+    "name": "io.netty.handler.ssl.SslHandler"
+  },
+  {
+    "allPublicMethods": true,
+    "name": "io.netty.handler.codec.http.HttpClientCodec"
+  },
+  {
+    "allPublicMethods": true,
+    "name": "io.netty.channel.DefaultChannelPipeline$HeadContext"
+  },
+  {
+    "allPublicMethods": true,
+    "name": "io.netty.channel.DefaultChannelPipeline$TailContext"
+  }
+]

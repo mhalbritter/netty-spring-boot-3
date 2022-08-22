@@ -1,0 +1,1 @@
+Copied from https://github.com/reactor/reactor-netty/blob/2c3a06ac54ffdb8cee4695f9b9b068a63b20dc44/reactor-netty-core/src/main/resources/META-INF/native-image/io.projectreactor.netty/reactor-netty-core/reflect-config.json
